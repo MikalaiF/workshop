@@ -12,7 +12,7 @@ cd basic_bank
 leo clean
 cd ..
 
-# Clean the battleship example.
+# Clean the battleship example.exampleexample
 cd battleship
 leo clean
 cd ..
